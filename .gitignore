@@ -13,3 +13,6 @@ main/assets/lang_config.h
 main/mmap_generate_emoji.h
 .DS_Store
 .cache
+
+# GPS服务端代码 (运行在Linux服务器)
+gps_server/
